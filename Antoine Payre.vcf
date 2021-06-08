@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.15.7//EN
+N:Payre;Antoine;;;
+FN:Antoine Payre
+EMAIL;type=INTERNET;type=pref:payre.antoine@sfr.fr
+TEL;type=CELL;type=VOICE;type=pref:06 16 94 79 91
+END:VCARD
